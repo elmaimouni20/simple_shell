@@ -11,6 +11,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o sodash ./sodash Sodash is allowed to 
 
 <h1>Authors & Copyrights</h1>
 Salma EL Maimouni
+
 Saad Ouchama
 
 <h1>More information</h1>
